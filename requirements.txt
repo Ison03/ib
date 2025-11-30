@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+tensorflow
+scikit-learn
+python-dateutil
+matplotlib
+paho-mqtt
